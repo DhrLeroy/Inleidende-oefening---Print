@@ -1,0 +1,1 @@
+#Opdracht: Maak 2 variabelen voor jouw naam (naam) en de titel van jouw lievelingsgame (game). Schrijf vervolgens op het scherm: naam speelt graag titel!

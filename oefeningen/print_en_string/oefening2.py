@@ -1,0 +1,1 @@
+#Opdracht: Maak een variabele (naam) en schrijf hier jouw naam in weg. Schrijf vervolgens op het scherm: "Hallo naam!"

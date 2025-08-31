@@ -1,0 +1,1 @@
+Run in terminal: python tests/run_tests.py
